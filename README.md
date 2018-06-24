@@ -11,7 +11,7 @@ We'll cover props and show how they help us make our components more dynamic and
 3. Render a component with props and default props
 
 
-## What are props?
+## What are jrops?
 Props allow us to pass values into our components. These values can be anything: a string, an array, functions, and so on. They give us the opportunity to make our components more dynamic, and a **lot more** reusable. For example, say we have a `<MovieCard />` component. A movie has a title, a poster image, and many other attributes (or **prop**erties!). Our component would kind of look like this, with _hardcoded_ data:
 
 ```jsx
